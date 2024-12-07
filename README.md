@@ -1,16 +1,26 @@
 ## Owed Money Calculator
+
 ---
+
 ##### Calculates how much some owes to each person in a group, saves data for a trip each time program ends.
+
 ---
+
 ### How to use
 
-
-- Clone this repository on your machine
+- Download by running the following commands in your terminal
 
     ```console
-    git clone <repository url>
-    cd <repository directory>
+    git clone https://github.com/kaibehrensOU/Owed-Money-Calculator.git
+    cd Owed-Money-Calculator
     ```
 
-- Enter the repository
-    
+- Run the program 
+    ```console
+    make run
+    ```
+---
+
+### How to use
+
+**<not yet created>**
